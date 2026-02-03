@@ -1,0 +1,70 @@
+# 🌐 About SOTA-AI Community
+
+**State-of-the-Art AI Community (SOTA-AI)** is a student-driven initiative founded by passionate young minds who have excelled at the **International Olympiad in Artificial Intelligence (IOAI)**. At a time when **AI is transforming every aspect of the world** yet resources for school and college students remain scattered and limited, SOTA-AI was born with a clear mission: **to make AI education, competitive preparation, and cutting-edge research approachable and accessible to everyone.**
+
+Our community is more than just a study group—it is a **comprehensive platform** that combines:
+
+- 📚 **Education:** Step-by-step guidance for beginners entering the world of AI.
+- 🤝 **Discussion:** An open forum where learners exchange ideas, collaborate, and challenge each other.
+- 🏆 **Competitive Prep:** Specialized mentoring and practice for IOAI and other AI-related contests.
+- 🔬 **Research Culture:** Exposure to state-of-the-art (SOTA) AI concepts, datasets, and projects to inspire curiosity and innovation.t
+
+---
+
+## 🎯 Our Mission
+
+We aim to build a **global hub for AI enthusiasts**, where students can:
+
+- Start from zero and **learn AI fundamentals in a structured way**.
+- Access **guidance from international medalists and mentors**.
+- Prepare for **IOAI, hackathons, and AI-driven competitions**.
+- Collaborate on **research-inspired projects** to push the boundaries of learning.
+
+At SOTA-AI, we believe in the principle of **“growing together as a community.”** Whether you are just starting out or already have experience in AI, there is always something to learn, share, and contribute.
+
+---
+
+## 👨‍💻 Founders & Mentorship
+
+SOTA-AI was founded by **four pioneering IOAI achievers from India**:
+
+- **Aarav Sharma** – IOAI Training Camp ’25  Participant
+- **Rayan Banerjee** – IOAI ’25 Silver Medallist
+- **Savyasachi Singh** – IOAI ’25 Team India Member
+- **Roumak Das** – IOAI ’25 Gold Medallist
+
+To guide and mentor the community, we are privileged to have **Abhishekh Divekar**, Team Leader of **IOAI India ’25**, who brings invaluable expertise and leadership to help shape the next generation of AI learners.
+
+---
+
+## 🌱 What We Do
+
+In our community, we:
+
+- Host **interactive discussions and Q&A sessions** on AI concepts, ML/DL, data science, and applications.
+- Provide **structured guidance and resources** for IOAI preparation.
+- Run **mock tests and practice sessions** modeled on IOAI-style problems.
+- Share **research papers, project ideas, and datasets** to encourage hands-on learning.
+- Offer a **collaborative Discord server** where beginners and advanced learners alike can ask doubts, find mentors, and grow together.
+
+---
+
+## 🚀 The Future of SOTA-AI
+
+Our vision is to **expand beyond just contest preparation** and evolve into a **global AI learning ecosystem**. Over the coming years, we plan to:
+
+- Launch **online bootcamps and workshops** for AI beginners.
+- Publish **guides, tutorials, and video resources** to simplify AI learning.
+- Create a **problem archive and practice portal** inspired by IOAI.
+- Collaborate with schools, universities, and organizations to bring AI education to more students.
+
+Ultimately, we see SOTA-AI as a **launchpad for future AI leaders**—a place where curiosity meets community, and learners transform into innovators.
+
+---
+
+## ✨ Our Motto
+
+Since you don’t yet have a tagline, here are a few options you can pick from (or we can refine further):
+
+1. **“Where Curiosity Meets Community.”**
+2. **“A Community by Highschoolers, For Highschoolers”**
